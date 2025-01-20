@@ -1,21 +1,3 @@
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hello, my name is Artem Suvorov 🙂
-      </h1>
-    </summary>
-  </ul>
-</div>
-
- **<h3 align="left">🚀 I am 26 years old. Learning full stack web development and have few work experience with frontend and backend technologies.
-Here will be my pet projects and some notes, thank you for attention 🙏</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻PC builder project with using Flask and PostgreSQL, SQLAlchemy**
-- 🌱 I'm currently learning: **📚 Git, Python OOP, Flask, SQLAlchemy**
-
  **<h3 align="left">Skills</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Pascal-002D72?logo=pascal&logoColor=white" height="32" alt="Pascal" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="32" alt="Django" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="32" alt="Selenium" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white" height="32" alt="Vim" style="margin-right: 4px"></div>
