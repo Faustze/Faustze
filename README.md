@@ -1,3 +1,7 @@
-# Software engineer from Moscow 🏰
+<div align="center">
   
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Faust\&layout=compact\&theme=dracula)
+  # Software engineer from Moscow 🏰
+  
+  ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Faust&layout=compact&theme=dracula)
+
+</div>
